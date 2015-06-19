@@ -19,6 +19,7 @@
   "author": "Andrey Sidorov <sidorares@yandex.com>",
   "license": "MIT",
   "dependencies": {
+    "promise": "^7.0.3",
     "request": "^2.36.0"
   }
 }
